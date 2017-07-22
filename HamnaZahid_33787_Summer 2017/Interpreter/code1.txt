@@ -1,0 +1,8 @@
+Let x
+Let y = 0 ;
+x = y ;
+x = x + 10 ;
+Let a = x == y;
+- a
+print x
+print a

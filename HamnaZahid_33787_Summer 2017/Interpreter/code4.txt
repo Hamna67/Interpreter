@@ -1,0 +1,3 @@
+Let x = 2;
+Let y = not x;
+print y;
